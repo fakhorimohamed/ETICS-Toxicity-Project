@@ -8,3 +8,4 @@ pykernel
 pydantic-settings
 google-genai
 groq
+langchain_text_splitters
