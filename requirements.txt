@@ -4,4 +4,7 @@ python-docx
 pydantic
 sqlalchemy
 python-dotenv
-openai
+pykernel
+pydantic-settings
+google-genai
+groq
